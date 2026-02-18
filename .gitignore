@@ -75,7 +75,7 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Unreal's Content folder and its subfolders
-Content/*/**
+# Content/*/**
 
 #The specific folder inside the Content folder is included.
 !Content/00_Project/**
